@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...PROGRAMMING LANGUAGES
 - 💞️ I’m looking to study on ...PYTHON/MATLAB/LTSPICE/Html
 - 📫 How to reach me ...THROUGH LINKEDIN(MEIJEEVAN KT)
-- 😄 Pronouns: ...MEI
+- 😄 Pronouns: ...He/Him
   
 
 <!---
